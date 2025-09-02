@@ -17,7 +17,7 @@
 
    Then fill in the values.
 
-2. Install dependencies (uses [`uv`](curl -LsSf https://astral.sh/uv/install.sh | sh))
+2. Install dependencies, uses [`uv`](https://docs.astral.sh/uv/getting-started/installation/)
 
    ```sh
    uv sync

@@ -8,4 +8,4 @@ Uses the following services:
 - [Daily.co](https://daily.co)
 - [Langfuse Docs MCP server](https://langfuse.com/docs/docs-mcp)
 
-Check the instruction on how to run it [here](../README.md)
+Check the instruction on how to run it [here](../README.md).
